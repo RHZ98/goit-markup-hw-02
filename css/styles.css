@@ -63,7 +63,7 @@ ul {
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: 0.043em;
+  letter-spacing: 0.04em;
   cursor: pointer;
 }
 .hero-button:hover,
@@ -74,9 +74,10 @@ ul {
   color: #2e2f42;
   font-size: 36px;
   font-weight: 700;
-  line-height: 1.111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
+  text-transform: capitalize;
 }
 .subtitle {
   color: #2e2f42;
